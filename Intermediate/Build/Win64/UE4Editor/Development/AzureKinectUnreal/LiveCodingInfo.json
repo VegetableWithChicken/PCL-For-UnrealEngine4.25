@@ -1,0 +1,22 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.AzureKinectUnreal.cpp.obj": [
+			"AzureKinectBody.cpp.obj",
+			"AzureKinectDevice.cpp.obj",
+			"AzureKinectManager.cpp.obj",
+			"AzureKinectThread.cpp.obj",
+			"AzureKinectUnreal.cpp.obj",
+			"PCL_Component.cpp.obj",
+			"ShowImageActor.cpp.obj"
+		],
+		"Module.AzureKinectUnreal.gen.cpp.obj": [
+			"AzureKinectBody.gen.cpp.obj",
+			"AzureKinectHelper.gen.cpp.obj",
+			"AzureKinectManager.gen.cpp.obj",
+			"AzureKinectUnreal.init.gen.cpp.obj",
+			"PCL_Component.gen.cpp.obj",
+			"ShowImageActor.gen.cpp.obj"
+		]
+	}
+}

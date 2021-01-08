@@ -1,0 +1,16 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-AzureKinectUnreal-Win64-DebugGame.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:\UE4Protect\One\4.25\PCL\PCL_One\AureKinectAndPCL\Intermediate\Build\Win64\AureKinectAndPCLEditor\DebugGame\Engine\SharedPCH.Engine.NonOptimized.RTTI.ShadowErrors.h.obj"
+"D:\UE4Protect\One\4.25\PCL\PCL_One\AureKinectAndPCL\Plugins\AzureKinectUnreal\Intermediate\Build\Win64\UE4Editor\DebugGame\AzureKinectUnreal\AzureKinectDevice.cpp.obj"
+"D:\UE4Protect\One\4.25\PCL\PCL_One\AureKinectAndPCL\Plugins\AzureKinectUnreal\Intermediate\Build\Win64\UE4Editor\DebugGame\AzureKinectUnreal\PCL_Component.cpp.obj"
+"D:\UE4Protect\One\4.25\PCL\PCL_One\AureKinectAndPCL\Plugins\AzureKinectUnreal\Intermediate\Build\Win64\UE4Editor\DebugGame\AzureKinectUnreal\Module.AzureKinectUnreal.cpp.obj"
+"D:\UE4Protect\One\4.25\PCL\PCL_One\AureKinectAndPCL\Plugins\AzureKinectUnreal\Intermediate\Build\Win64\UE4Editor\DebugGame\AzureKinectUnreal\Module.AzureKinectUnreal.gen.cpp.obj"
+"D:\UE4Protect\One\4.25\PCL\PCL_One\AureKinectAndPCL\Plugins\AzureKinectUnreal\Intermediate\Build\Win64\UE4Editor\DebugGame\AzureKinectUnreal\Default.rc2.res"
+/OUT:"D:\UE4Protect\One\4.25\PCL\PCL_One\AureKinectAndPCL\Plugins\AzureKinectUnreal\Intermediate\Build\Win64\UE4Editor\DebugGame\AzureKinectUnreal\UE4Editor-AzureKinectUnreal-Win64-DebugGame.lib"
+/INCLUDE:IMPLEMENT_MODULE_AzureKinectUnreal
