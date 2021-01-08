@@ -6,10 +6,13 @@ x64
 Visual Studio 2017
 UnrealEngine4.25
 
-#step:
+#step:  
 1,add plugins to YourProject;  
 3,open project and create actor ,then add a component PCL_;  
 4,call function LoadPCL();  
+
+in this plugin ,also support multily person tracker,in AzureKinectDK,Max is 10;
+
 
 
 
