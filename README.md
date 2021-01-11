@@ -19,6 +19,9 @@ DownLoad AzureKinect sdk,and Add the <Azure Kinect Body Tracking SDK installatio
 If  u want to show Depth and RGB image in Utexture2D,please do the following:  
 1,craete actor Create an actor that inherits from the ashowtexture，and call function UpdataRGBTexture or UpdataDepthTexture or UpdataTransformedTexture
 
+#Convert image url:
+https://github.com/UEBoy2019/Convert-KinectDK-k4a-image-to-Texture2D-for-UnrealEngine-4.25-
+
 
 
 
